@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## Oi!! Eu Sou a Danielle Monteiro - Desenvolvedora Web, mestra em Sistemas de Informações pela USP 
+## Oi!! Eu Sou a Danielle Monteiro - Desenvolvedora Web, mestra em Sistemas de Informações pela USP
 
 <div align="center">
   <a href="https://github.com/danisamon">
